@@ -1,2 +1,27 @@
-# image k means clusting
- K-Means Clustering for Linear Algebra is a Python-based project that applies the K-Means clustering algorithm to image data. the project uses linear algebra concepts and libraries such as NumPy and PIL to process images into arrays. The K-Means clustering algorithm is then applied to categorize the data and update cluster centers. The centroids of the clusters are saved as images, providing a visual representation of the clustering results. This project offers a practical application of linear algebra concepts and the K-Means clustering algorithm in image processing
+# K-Means Clustering for image-data 
+
+## Description
+This project, developed by Ali Akbar Ahrari, is an implementation of the K-Means clustering algorithm using linear algebra concepts. It processes images and applies K-Means clustering to categorize data and update cluster centers. The project is implemented in Python and uses libraries such as NumPy and PIL.
+
+## Features
+- Image Processing: Processes images into arrays using PIL and NumPy.
+- K-Means Clustering: Applies the K-Means clustering algorithm to categorize data and update cluster centers.
+- Image Saving: Saves the centroids of the clusters as images.
+
+## Prerequisites
+- Python 3.x
+- NumPy
+- PIL
+
+## Installation
+1. Clone the repository: `git clone https://github.com/yourusername/k-means-clustering.git`
+2. Navigate to the project directory: `cd k-means-clustering`
+
+## Usage
+Run the script with the command: `python main.py`
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+MIT
